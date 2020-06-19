@@ -1,5 +1,8 @@
 # My Portfolio
 
+Visit my site:
+https://eapatton.github.io/
+
 ## The Design
 
 ## The Concept
